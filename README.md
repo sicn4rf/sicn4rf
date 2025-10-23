@@ -7,5 +7,5 @@ I’m a CS transfer at **UC Irvine** (sophomore), currently learning **web devel
 - 🧰 Hobbies: Building mechanical keyboards, playing basketball  
 - 🌍 Fun fact: Born in **Dubai**, grew up between **Dubai** and the **Philippines**, and moved to the **USA** for college!
 
-Connect with me on [LinkedIn](linkedin.com/in/francis-e-padua)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/francis-e-padua)
 
