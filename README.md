@@ -1,6 +1,6 @@
 ## Hello there, I'm Francis! 👋
 
-I’m a CS transfer at **UC Irvine** (sophomore), currently learning **web development with TypeScript**. I love building projects that help others, especially **educational tools**—and I’m working toward becoming a **software engineer**. I'm also getting into **cybersecurity** and training to compete at **CCDC**.
+I’m a CS transfer at **UC Irvine** (sophomore), currently learning **web development with TypeScript**. I love building projects that help others, especially **educational tools**. I’m working toward becoming a **software engineer**. I'm also getting into **cybersecurity** and training to compete at **CCDC**.
 
 - 🔭 Current focus: Next.js + TypeScript, fundamentals in backend & databases  
 - 🎯 Goals: Ship useful tools, grow steadily, learn in public  
