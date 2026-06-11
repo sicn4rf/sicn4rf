@@ -1,11 +1,21 @@
-## Hello there, I'm Francis! 👋
+## hi, I'm Francis :)
 
-I’m a CS transfer at **UC Irvine**, currently competing in [**National Collegiate Cyber Defense Competition**](https://www.nationalccdc.org/) with [Cyber@UCI](https://cyberuci.com/), specializing in Linux systems. I'm also a **Software Developer** for the [ICS Student Council](https://studentcouncil.ics.uci.edu/), working on [AntAlmanac](https://antalmanac.com/).
 
-- 🔭 Current focus: Next.js + TypeScript, fundamentals in backend & databases. CCDC!
-- 🎯 Goals: Ship useful tools, grow steadily, learn in public
-- 🧰 Hobbies: Building mechanical keyboards, playing basketball, rock climbing, and lifting
-- 🌍 Fun fact: Born in **Dubai**
-
-Connect with me on [LinkedIn](https://www.linkedin.com/in/francis-e-padua)
-
+```text
+paduaf@uci:~$ systemctl status francis.service
+● francis.service - CS @ UC Irvine, platform engineer, software developer, technical lead, blue team
+     Loaded: loaded (/home/francis/anteater.unit; enabled; preset: enabled)
+     Active: active (running) since Sep 2023
+       Docs: man:francis(1)
+             https://www.linkedin.com/in/francis-e-padua
+   Main PID: 1 (uci)
+      Tasks: 4 (limit: 24)
+     Memory: mechanical keyboards, basketball, climbing, lifting
+        CPU: Go, TypeScript, C++, Python, Bash
+     CGroup: /student.slice/francis.service
+             ├─ antalmanac: technical lead, UCI's most-used course planner (17k+ MAU)
+             ├─ cyber@uci: CCDC blue team, 8th of 250+ schools nationally (2026)
+             ├─ resmed: incoming platform engineering intern (summer 2026)
+             └─ projects: northstar, hypernova, gateway guardrails
+```
+paduaf@uci.edu
