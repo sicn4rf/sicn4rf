@@ -19,3 +19,4 @@ paduaf@uci:~$ systemctl status francis.service
              └─ projects: northstar, hypernova, gateway guardrails
 ```
 paduaf@uci.edu
+francispadua.dev
